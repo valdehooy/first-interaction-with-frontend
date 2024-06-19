@@ -27,8 +27,8 @@ const config = {
     },
     extend: {
       colors: {
-        orange: {
-          DEFAULT: "FF8D33", 
+        darkOrange: {
+          DEFAULT: "#CC5500", 
         },
         black: {
           DEFAULT: "#000",
